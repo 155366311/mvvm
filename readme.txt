@@ -1,2 +1,17 @@
-Git is a version control system.
-Git is free software.
+已完成
+
+指令解析
+
+数据绑定
+
+事件绑定
+
+方法绑定
+
+
+
+
+即将实现
+钩子
+compute
+watch
