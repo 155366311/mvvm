@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-这是第一次no1
+这是第一次branch
 
-=======
->>>>>>> refs/remotes/origin/master
 已完成
 
 指令解析
@@ -14,17 +11,10 @@
 方法绑定
 
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> refs/remotes/origin/master
-即将实现
+即将实现这些东西？
 钩子
 compute
 watch
-<<<<<<< HEAD
 
-还有
-=======
->>>>>>> refs/remotes/origin/master
+
+其实也可以啊
